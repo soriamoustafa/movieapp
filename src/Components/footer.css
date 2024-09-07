@@ -1,0 +1,23 @@
+.foot{
+    margin-top: 30px;
+    height: 200px;
+    background: rgb(6,6,7);
+    background: linear-gradient(90deg, rgba(6,6,7,1) 0%, rgba(47,53,53,1) 45%, rgba(16,16,16,1) 100%);
+    color: white;
+    padding: 50px;
+}
+.foot ul{
+    display: flex;
+    justify-content: space-around;
+}
+.foot ul li{
+    list-style: none;
+}
+.foot ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+span{
+    color: green;
+}
